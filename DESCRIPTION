@@ -1,0 +1,12 @@
+Package: future2.14
+Type: Package
+Title: Imports functions that were introducted in 2.14
+Version: 1.0
+Date: 2013-02-27
+Author: Dason Kurkiewicz (package) and R Development Core Team (code)
+Maintainer: Dason Kurkiewicz <dasonk@iastate.edu>
+Description: This is a convenience package for those stuck with R
+    versions lower than 2.14 but want the functions introduced in 2.14
+License: GPL-2
+Collate:
+    'regmatches.R'

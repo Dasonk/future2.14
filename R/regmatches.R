@@ -139,6 +139,7 @@ regmatches <- function (x, m, invert = FALSE){
 
 
 #' @rdname regmatches
+#' @usage regmatches(x, m, invert = FALSE) <- value
 #' @export
 `regmatches<-` <- function (x, m, invert = FALSE, value) 
 {

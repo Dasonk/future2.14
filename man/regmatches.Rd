@@ -5,7 +5,7 @@
 \usage{
   regmatches(x, m, invert = FALSE)
 
-  regmatches(x, m, invert = FALSE, value) <- value
+  regmatches(x, m, invert = FALSE) <- value
 }
 \arguments{
   \item{x}{a character vector}

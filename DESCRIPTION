@@ -7,6 +7,6 @@ Author: Dason Kurkiewicz (package) and R Development Core Team (code)
 Maintainer: Dason Kurkiewicz <dasonk@iastate.edu>
 Description: This is a convenience package for those stuck with R
     versions lower than 2.14 but want the functions introduced in 2.14
-License: GPL-2
+License: GPL-3
 Collate:
     'regmatches.R'

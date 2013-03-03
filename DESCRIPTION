@@ -1,6 +1,6 @@
 Package: future2.14
 Type: Package
-Title: Imports functions that were introducted in 2.14
+Title: Imports functions that were introduced in 2.14
 Version: 1.0
 Date: 2013-02-27
 Author: Dason Kurkiewicz (package) and R Development Core Team (code)
